@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/GitHubUsersDataUsingAxios/static/css/main.4fda368f.chunk.css",
+    "main.js": "/GitHubUsersDataUsingAxios/static/js/main.a22b9880.chunk.js",
+    "main.js.map": "/GitHubUsersDataUsingAxios/static/js/main.a22b9880.chunk.js.map",
+    "runtime-main.js": "/GitHubUsersDataUsingAxios/static/js/runtime-main.a030c487.js",
+    "runtime-main.js.map": "/GitHubUsersDataUsingAxios/static/js/runtime-main.a030c487.js.map",
+    "static/css/2.983f79de.chunk.css": "/GitHubUsersDataUsingAxios/static/css/2.983f79de.chunk.css",
+    "static/js/2.fd0307fe.chunk.js": "/GitHubUsersDataUsingAxios/static/js/2.fd0307fe.chunk.js",
+    "static/js/2.fd0307fe.chunk.js.map": "/GitHubUsersDataUsingAxios/static/js/2.fd0307fe.chunk.js.map",
+    "static/js/3.edfc951e.chunk.js": "/GitHubUsersDataUsingAxios/static/js/3.edfc951e.chunk.js",
+    "static/js/3.edfc951e.chunk.js.map": "/GitHubUsersDataUsingAxios/static/js/3.edfc951e.chunk.js.map",
+    "index.html": "/GitHubUsersDataUsingAxios/index.html",
+    "static/css/2.983f79de.chunk.css.map": "/GitHubUsersDataUsingAxios/static/css/2.983f79de.chunk.css.map",
+    "static/css/main.4fda368f.chunk.css.map": "/GitHubUsersDataUsingAxios/static/css/main.4fda368f.chunk.css.map",
+    "static/js/2.fd0307fe.chunk.js.LICENSE.txt": "/GitHubUsersDataUsingAxios/static/js/2.fd0307fe.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a030c487.js",
+    "static/css/2.983f79de.chunk.css",
+    "static/js/2.fd0307fe.chunk.js",
+    "static/css/main.4fda368f.chunk.css",
+    "static/js/main.a22b9880.chunk.js"
+  ]
+}
